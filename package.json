@@ -1,0 +1,8 @@
+{
+  "name": "sample-http",
+  "version": "0.0.1",
+  "dependencies": {
+    "generator-jhipster": "6.0.0",
+    "yo": "2.0.6"
+  }
+}
